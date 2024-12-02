@@ -1,0 +1,6 @@
+flask
+gradio
+ultralytics
+opencv-python
+matplotlib
+numpy
